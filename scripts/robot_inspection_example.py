@@ -6,7 +6,6 @@ Created on Tue Oct 22 12:00:00 2013
 @author: sampfeiffer
 """
 
-import roslib; roslib.load_manifest('example_sm_pkg')
 import rospy
 import smach
 import smach_ros

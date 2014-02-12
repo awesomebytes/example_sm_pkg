@@ -7,7 +7,6 @@ Created on Tue Oct 22 12:00:00 2013
 """
 
 
-import roslib; roslib.load_manifest('example_sm_pkg')
 import rospy
 #import copy
 import smach
